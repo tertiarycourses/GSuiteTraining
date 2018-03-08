@@ -7,6 +7,8 @@ The course outline can be found in
 
 https://www.tertiarycourses.com.sg/google-drive-essential-training-in-singapore.html
 
+https://www.tertiarycourses.com.my/google-drive-essential-training-in-malaysia.html
+
 <p><strong>Module 1 Overview of G Suite</strong></p>
 <ul>
 <li>What is G Suite?</li>
